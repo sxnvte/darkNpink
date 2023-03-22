@@ -3,10 +3,22 @@
   "displayName": "darkNpink",
   "description": "A cool dark theme with pink elements in it for VS Code!",
   "author": "sxnvte",
+  "publisher": "sxnvte",
+  "license": "MIT",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },
+  "keywords": [
+    "darknpink",
+    "darkNpink",
+    "Pink theme",
+    "Dark theme",
+    "gray theme",
+    "github theme",
+    "VS Code Theme",
+    "Pink and black theme"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/sxnvte/darkNpink"
@@ -14,6 +26,8 @@
   "categories": [
     "Themes"
   ],
+  "icon": "logo.png",
+  
   "contributes": {
     "themes": [
       {
@@ -22,6 +36,8 @@
         "path": "./themes/darkNpink-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "sxnvte"
   }
-  
 }
