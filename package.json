@@ -1,0 +1,22 @@
+{
+  "name": "darknpink",
+  "displayName": "darkNpink",
+  "description": "A cool dark theme with pink elements in it for VS Code!",
+  "author": "sxnvte",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darkNpink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkNpink-color-theme.json"
+      }
+    ]
+  }
+}
